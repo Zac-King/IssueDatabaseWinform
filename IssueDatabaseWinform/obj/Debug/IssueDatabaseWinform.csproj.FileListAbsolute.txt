@@ -1,0 +1,9 @@
+c:\users\zac\documents\visual studio 2017\Projects\IssueDatabaseWinform\IssueDatabaseWinform\bin\Debug\IssueDatabaseWinform.exe.config
+c:\users\zac\documents\visual studio 2017\Projects\IssueDatabaseWinform\IssueDatabaseWinform\bin\Debug\IssueDatabaseWinform.exe
+c:\users\zac\documents\visual studio 2017\Projects\IssueDatabaseWinform\IssueDatabaseWinform\bin\Debug\IssueDatabaseWinform.pdb
+c:\users\zac\documents\visual studio 2017\Projects\IssueDatabaseWinform\IssueDatabaseWinform\obj\Debug\IssueDatabaseWinform.csprojResolveAssemblyReference.cache
+c:\users\zac\documents\visual studio 2017\Projects\IssueDatabaseWinform\IssueDatabaseWinform\obj\Debug\IssueDatabaseWinform.DataBaseWindow.resources
+c:\users\zac\documents\visual studio 2017\Projects\IssueDatabaseWinform\IssueDatabaseWinform\obj\Debug\IssueDatabaseWinform.Properties.Resources.resources
+c:\users\zac\documents\visual studio 2017\Projects\IssueDatabaseWinform\IssueDatabaseWinform\obj\Debug\IssueDatabaseWinform.csproj.GenerateResource.Cache
+c:\users\zac\documents\visual studio 2017\Projects\IssueDatabaseWinform\IssueDatabaseWinform\obj\Debug\IssueDatabaseWinform.exe
+c:\users\zac\documents\visual studio 2017\Projects\IssueDatabaseWinform\IssueDatabaseWinform\obj\Debug\IssueDatabaseWinform.pdb
